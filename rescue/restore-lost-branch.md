@@ -5,3 +5,5 @@
 # Create branch from dangling commit
 
 `git branch <recovered-branch-name> <dangling-commit-sha-goes-here>`
+
+Note: `git gc` does not remove dangling commits.
